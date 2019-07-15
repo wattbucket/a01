@@ -1,0 +1,14 @@
+{
+    "ampresume": {
+        "awscloudformation": {
+            "AuthRoleName": "aws-amplify-resume-ampresume-20190714202450-authRole",
+            "UnauthRoleArn": "arn:aws:iam::412476929508:role/aws-amplify-resume-ampresume-20190714202450-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::412476929508:role/aws-amplify-resume-ampresume-20190714202450-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "aws-amplify-resume-ampresume-20190714202450-deployment",
+            "UnauthRoleName": "aws-amplify-resume-ampresume-20190714202450-unauthRole",
+            "StackName": "aws-amplify-resume-ampresume-20190714202450",
+            "StackId": "arn:aws:cloudformation:eu-west-1:412476929508:stack/aws-amplify-resume-ampresume-20190714202450/aad384c0-a664-11e9-94e0-06b2a79f881c"
+        }
+    }
+}
